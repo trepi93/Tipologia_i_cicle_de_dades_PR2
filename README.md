@@ -1,0 +1,1 @@
+# Tipologia_i_cicle_de_dades_PR2

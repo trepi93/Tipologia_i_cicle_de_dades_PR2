@@ -18,7 +18,6 @@ L'estructura del directori és:
     - final_dataset.csv: és el dataset final integrat i objecte d'anàlisis.
                    
   * /code: trobem el fitxer .rmd amb el codi a partir del qual s'ha realitzat l'anàlisis.
-  * /video: trobem el vídeo resum del projecte.
 
 ## Llicència
 El contingut d'aquest projecte està sota llicència [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), i el codi font usat està sota llicència [MIT license](http://opensource.org/licenses/mit-license.php).
